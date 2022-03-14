@@ -19,6 +19,8 @@ for (var pokemon of pokemons) {
   newImg.setAttribute("alt", pokemon.type);
   newImg.setAttribute("class", "card-img img-fluid");
   newBox.setAttribute("class", "card-body text-center ");
+  newHeading.setAttribute("class", "text-light");
+  newText.setAttribute("class", "text-light");
 
 
 
